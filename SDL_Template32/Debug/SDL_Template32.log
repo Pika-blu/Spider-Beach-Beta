@@ -1,0 +1,29 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Example 12-01 - Object Pooling.vcxproj, Example 12-02 - Asteroid Spawn Timer.vcxproj, Example 12-03 - Collision Manager.vcxproj, Example 10-05.vcxproj, Example 12-01.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Enemy.cpp
+  EnemyList.cpp
+  Background.cpp
+  Bullet.cpp
+C:\Users\Frown\Downloads\Week 12 examples\Examples Week 12\Example 3 - CollisionManager\SDL_Template32\Bullet.cpp(18,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Frown\Downloads\Week 12 examples\Examples Week 12\Example 3 - CollisionManager\SDL_Template32\Bullet.cpp(29,15): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  BulletList.cpp
+  CollisionManager.cpp
+  Game.cpp
+C:\Users\Frown\Downloads\Week 12 examples\Examples Week 12\Example 3 - CollisionManager\SDL_Template32\Game.cpp(159,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Frown\Downloads\Week 12 examples\Examples Week 12\Example 3 - CollisionManager\SDL_Template32\Game.cpp(159,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Frown\Downloads\Week 12 examples\Examples Week 12\Example 3 - CollisionManager\SDL_Template32\Game.cpp(206,25): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Hero.cpp
+C:\Users\Frown\Downloads\Week 12 examples\Examples Week 12\Example 3 - CollisionManager\SDL_Template32\Hero.cpp(67,21): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Frown\Downloads\Week 12 examples\Examples Week 12\Example 3 - CollisionManager\SDL_Template32\Hero.cpp(68,21): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Frown\Downloads\Week 12 examples\Examples Week 12\Example 3 - CollisionManager\SDL_Template32\Hero.cpp(74,35): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Frown\Downloads\Week 12 examples\Examples Week 12\Example 3 - CollisionManager\SDL_Template32\Hero.cpp(76,42): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Frown\Downloads\Week 12 examples\Examples Week 12\Example 3 - CollisionManager\SDL_Template32\Hero.cpp(86,37): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Frown\Downloads\Week 12 examples\Examples Week 12\Example 3 - CollisionManager\SDL_Template32\Hero.cpp(88,42): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Projectile.cpp
+C:\Users\Frown\Downloads\Week 12 examples\Examples Week 12\Example 3 - CollisionManager\SDL_Template32\Projectile.cpp(18,12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Frown\Downloads\Week 12 examples\Examples Week 12\Example 3 - CollisionManager\SDL_Template32\Projectile.cpp(29,15): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  ProjectileList.cpp
+  Smoke.cpp
+  Sprite.cpp
+  Generating Code...
+  SDL_Template32.vcxproj -> C:\Users\Frown\Downloads\Week 12 examples\Examples Week 12\Example 3 - CollisionManager\Debug\Game Fund Beta.exe
